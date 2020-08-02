@@ -1,3 +1,3 @@
 # FSCN_AnomalyDetection
 
-Code will be released after the paper is accepted.
+We released the FCSN, you can use your hidden features to train and test FSCN.
